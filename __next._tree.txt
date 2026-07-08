@@ -1,0 +1,5 @@
+:HL["/pizzeria-bestek-v3/_next/static/chunks/01x_zfkh31-fi.css","style"]
+:HL["/pizzeria-bestek-v3/_next/static/media/017d9bea37084d9b-s.p.41rroleoq1br7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/pizzeria-bestek-v3/_next/static/media/f06bf9da926bae75-s.p.2874ccu1_u7jf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://images.unsplash.com/photo-1599875953199-2b39f58d106a?auto=format&fit=crop&w=1900&q=80","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"AjiULNzw2LpgwdChb085L"}
